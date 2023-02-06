@@ -1,6 +1,6 @@
 #!/bin/sh
 
-### Script to control suspend feature
+### Script to control suspend feature on gnome
 
 if [[ $1 == 'off' ]]; then
   echo "turning off suspend"
